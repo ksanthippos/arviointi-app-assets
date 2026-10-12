@@ -1,0 +1,1 @@
+# arviointi-app-assets
